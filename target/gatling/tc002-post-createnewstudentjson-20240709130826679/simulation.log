@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC002_Post_CreateNewStudentJSON	tc002-post-createnewstudentjson	1720530506679	Creating aravind details	3.6.1
+REQUEST		PostStudent Details	1720530507838	1720530507868	KO	j.n.UnknownHostException: No such host is known (thetestingworldapi.comapi)
+USER	Creating a new student by passing JSON Payload	END	1720530507888
+USER	Creating a new student by passing JSON Payload	START	1720530507811

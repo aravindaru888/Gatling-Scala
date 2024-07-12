@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC004_Delete_DeleteExistingStudent	tc004-delete-deleteexistingstudent	1720540716564	delete	3.6.1
+REQUEST		DeleteStudent	1720540717734	1720540717753	KO	j.n.UnknownHostException: No such host is known (thetestingworldapi.comapi)
+USER	Delete student	END	1720540717770
+USER	Delete student	START	1720540717704

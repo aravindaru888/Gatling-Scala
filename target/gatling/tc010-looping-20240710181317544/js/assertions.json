@@ -1,0 +1,10 @@
+{
+  "simulation": "LoopingAndFeeders.TC010_Looping",
+  "simulationId": "tc010-looping",
+  "start": 1720635197544,
+  "description": "looping checks",
+  "scenarios": ["Looping"],
+  "assertions": [
+
+  ]
+}

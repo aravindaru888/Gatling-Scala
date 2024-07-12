@@ -1,0 +1,5 @@
+RUN	Correlation_Chaining.Correlation	correlation	1720636930874	correlation	3.6.1
+USER	Creating a new student by passing JSON Payload	START	1720636931596
+REQUEST		PostStudent Details	1720636931624	1720636931676	OK	 
+REQUEST		Get Details	1720636941751	1720636941761	OK	 
+USER	Creating a new student by passing JSON Payload	END	1720636941764

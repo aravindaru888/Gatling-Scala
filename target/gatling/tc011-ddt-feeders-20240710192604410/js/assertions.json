@@ -1,0 +1,10 @@
+{
+  "simulation": "LoopingAndFeeders.TC011_DDT_Feeders",
+  "simulationId": "tc011-ddt-feeders",
+  "start": 1720639564410,
+  "description": "test",
+  "scenarios": ["get the details using CsvFeeder"],
+  "assertions": [
+
+  ]
+}

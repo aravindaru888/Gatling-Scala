@@ -1,0 +1,5 @@
+RUN	Correlation_Chaining.Correlation	correlation	1720636746188	correlation	3.6.1
+USER	Creating a new student by passing JSON Payload	START	1720636746932
+REQUEST		PostStudent Details	1720636746955	1720636748853	KO	status.find.is(200), but actually found 201
+REQUEST		Get Details	1720636758927	1720636758955	KO	status.find.is(200), but actually found 400
+USER	Creating a new student by passing JSON Payload	END	1720636758959

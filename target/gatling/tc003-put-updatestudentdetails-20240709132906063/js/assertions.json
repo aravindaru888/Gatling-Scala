@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC003_Put_UpdateStudentDetails",
+  "simulationId": "tc003-put-updatestudentdetails",
+  "start": 1720531746063,
+  "description": "Updating",
+  "scenarios": ["Updating the student details"],
+  "assertions": [
+
+  ]
+}

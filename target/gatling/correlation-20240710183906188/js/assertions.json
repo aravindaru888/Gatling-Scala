@@ -1,0 +1,10 @@
+{
+  "simulation": "Correlation_Chaining.Correlation",
+  "simulationId": "correlation",
+  "start": 1720636746188,
+  "description": "correlation",
+  "scenarios": ["Creating a new student by passing JSON Payload"],
+  "assertions": [
+
+  ]
+}

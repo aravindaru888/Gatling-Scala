@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC001_GetAllStudentDetails",
+  "simulationId": "tc001-getallstudentdetails",
+  "start": 1720551573194,
+  "description": "Test Check",
+  "scenarios": ["GetAllStudentDetails"],
+  "assertions": [
+
+  ]
+}

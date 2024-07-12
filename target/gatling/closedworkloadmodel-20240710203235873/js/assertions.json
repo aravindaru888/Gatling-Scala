@@ -1,0 +1,10 @@
+{
+  "simulation": "InjectionStrategies.ClosedWorkloadModel",
+  "simulationId": "closedworkloadmodel",
+  "start": 1720643555873,
+  "description": "test",
+  "scenarios": ["GetAllStudentDetails"],
+  "assertions": [
+
+  ]
+}

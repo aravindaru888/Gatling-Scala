@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC004_Delete_DeleteExistingStudent	tc004-delete-deleteexistingstudent	1720540751380	delete	3.6.1
+USER	Delete student	START	1720540752502
+REQUEST		DeleteStudent	1720540752523	1720540752581	OK	 
+USER	Delete student	END	1720540752599

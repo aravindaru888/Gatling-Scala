@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC004_Delete_DeleteExistingStudent",
+  "simulationId": "tc004-delete-deleteexistingstudent",
+  "start": 1720540716564,
+  "description": "delete",
+  "scenarios": ["Delete student"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsGoRestAuthoization.TC009_DeleteUserWithAuth",
+  "simulationId": "tc009-deleteuserwithauth",
+  "start": 1720554676405,
+  "description": "test",
+  "scenarios": ["Delete User with Auth"],
+  "assertions": [
+
+  ]
+}

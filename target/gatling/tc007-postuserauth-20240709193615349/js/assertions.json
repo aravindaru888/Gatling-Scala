@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsGoRestAuthoization.TC007_PostUserAuth",
+  "simulationId": "tc007-postuserauth",
+  "start": 1720553775349,
+  "description": "test post",
+  "scenarios": ["Post test"],
+  "assertions": [
+
+  ]
+}

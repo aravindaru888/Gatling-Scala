@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC001_GetAllStudentDetails	tc001-getallstudentdetails	1720529232320	1	3.6.1
+USER	GetAllStudentDetails	START	1720529233554
+REQUEST		Get All student details	1720529233582	1720529233627	OK	 
+USER	GetAllStudentDetails	END	1720529233641

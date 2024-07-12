@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC002_Post_CreateNewStudentJSON	tc002-post-createnewstudentjson	1720530655407	Creating a student named aravind	3.6.1
+USER	Creating a new student by passing JSON Payload	START	1720530656753
+REQUEST		PostStudent Details	1720530656777	1720530659324	OK	 
+USER	Creating a new student by passing JSON Payload	END	1720530659341

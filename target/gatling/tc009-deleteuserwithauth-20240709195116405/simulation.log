@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsGoRestAuthoization.TC009_DeleteUserWithAuth	tc009-deleteuserwithauth	1720554676405	test	3.6.1
+USER	Delete User with Auth	START	1720554677689
+REQUEST		Delete User	1720554677721	1720554678080	OK	 
+USER	Delete User with Auth	END	1720554678096

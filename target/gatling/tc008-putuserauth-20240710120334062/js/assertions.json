@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsGoRestAuthoization.TC008_PutUserAuth",
+  "simulationId": "tc008-putuserauth",
+  "start": 1720613014062,
+  "description": "test",
+  "scenarios": ["Put test"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC002_Post_CreateNewStudentJSON",
+  "simulationId": "tc002-post-createnewstudentjson",
+  "start": 1720530506679,
+  "description": "Creating aravind details",
+  "scenarios": ["Creating a new student by passing JSON Payload"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC003_Put_UpdateStudentDetails	tc003-put-updatestudentdetails	1720531746063	Updating	3.6.1
+USER	Updating the student details	START	1720531747580
+REQUEST		Put Request to update details	1720531747620	1720531749206	OK	 
+USER	Updating the student details	END	1720531749219

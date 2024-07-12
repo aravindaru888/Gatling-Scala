@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsGoRestAuthoization.TC006_GetUserDetailsAuth",
+  "simulationId": "tc006-getuserdetailsauth",
+  "start": 1720613462894,
+  "description": "trsr",
+  "scenarios": ["Get api with authorisation"],
+  "assertions": [
+
+  ]
+}

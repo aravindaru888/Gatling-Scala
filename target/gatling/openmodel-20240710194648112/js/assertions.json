@@ -1,0 +1,10 @@
+{
+  "simulation": "InjectionStrategies.OpenModel",
+  "simulationId": "openmodel",
+  "start": 1720640808112,
+  "description": "test",
+  "scenarios": ["GetAllStudentDetails"],
+  "assertions": [
+
+  ]
+}

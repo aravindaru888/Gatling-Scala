@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsGoRestAuthoization.TC008_PutUserAuth	tc008-putuserauth	1720554263199	test	3.6.1
+USER	Put test	START	1720554264151
+REQUEST		POST API	1720554264177	1720554264365	KO	status.find.in(200,204), but actually found 404
+USER	Put test	END	1720554264389

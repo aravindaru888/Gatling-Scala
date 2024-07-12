@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations_GatlingTestsStudentDetailsAPI_NoAuth.TC005_AllRequests",
+  "simulationId": "tc005-allrequests",
+  "start": 1720543076713,
+  "description": "E2E",
+  "scenarios": ["E2E"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	LoopingAndFeeders.TC011_DDT_Feeders	tc011-ddt-feeders	1720639416908	csvfeeders	3.6.1
+USER	get the details using CsvFeeder	START	1720639417904
+REQUEST		Get details of each employee	1720639417951	1720639418029	OK	 
+USER	get the details using CsvFeeder	END	1720639418110

@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsGoRestAuthoization.TC006_GetUserDetailsAuth	tc006-getuserdetailsauth	1720613462894	trsr	3.6.1
+USER	Get api with authorisation	START	1720613464292
+REQUEST		GET CALL	1720613464319	1720613464740	KO	header(Content-Type).find.is(application/json), but actually found application/json; charset=utf-8
+USER	Get api with authorisation	END	1720613464777

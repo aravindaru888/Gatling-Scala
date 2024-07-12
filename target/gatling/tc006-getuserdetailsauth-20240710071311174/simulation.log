@@ -1,0 +1,4 @@
+RUN	Simulations_GatlingTestsGoRestAuthoization.TC006_GetUserDetailsAuth	tc006-getuserdetailsauth	1720595591174	test	3.6.1
+USER	Get api with authorisation	START	1720595592459
+REQUEST		GET CALL	1720595592486	1720595593058	OK	 
+USER	Get api with authorisation	END	1720595593083
